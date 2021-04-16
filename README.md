@@ -14,7 +14,7 @@ Usage The usage is very easy - here's an example:
  ## Registering the handler itself:
 ```sh
 @SuppressWarnings("deprecation")
-	public void onEnable(){
-		new TablistManager(this, new TablistAdapter(), 500L);
-	}
+public void onEnable() {
+    new TablistManager(this, new TablistAdapter(), 500L);
+}
 ```
