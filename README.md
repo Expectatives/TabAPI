@@ -3,6 +3,7 @@ An extremely simple tabapi for minecraft to enforce a tablist size
 of 80 players, to get 1.7 clients to see 4 columns.
 
 - You can use it for Hub Core, HCF Core and other things..
+- This API is a fork solving some things.
 
 # Features
 
