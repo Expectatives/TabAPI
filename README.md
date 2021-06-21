@@ -7,7 +7,7 @@ of 80 players, to get 1.7 clients to see 4 columns.
 
 # Features
 
-- Support 1.7 - 1.8
+- Support Spigot 1.7
 - Custom TAB
 
 # Usage
